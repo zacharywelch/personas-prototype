@@ -12,3 +12,8 @@ body:not(.animate) .animate {
 .fill-teal {
   background-color: #41afa5;
 }
+
+/*.navbar.dark .primary a {
+  color: rgba(255,255,255,.75);  
+}
+*/

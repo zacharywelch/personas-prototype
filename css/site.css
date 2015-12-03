@@ -1,0 +1,14 @@
+/* Global styles
+------------------------------------------------------- */
+
+/* Prevents animation on initial page load. */
+body:not(.animate) .animate {
+  -webkit-transition:none;
+     -moz-transition:none;
+      -ms-transition:none;
+          transition:none;
+}
+
+.fill-teal {
+  background-color: #41afa5;
+}

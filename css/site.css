@@ -32,3 +32,5 @@ h4.fancy {
   visibility: visible;
   opacity: 1;
 }
+
+.actions { position: fixed; bottom: 0; }

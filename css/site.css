@@ -9,9 +9,14 @@ body:not(.animate) .animate {
           transition:none;
 }
 
-.fill-teal {
-  background-color: #41afa5;
-}
+a { color: #41afa5; }
+a:hover { color: #5bc9bf; }
+
+.fill-teal,
+.btn-primary { background-color: #41afa5; }
+
+.btn-primary:active,
+.btn-primary:hover { background-color: #5bc9bf; }
 
 h4.fancy {
   font-family: 'Bitter Bold', 'Georgia', serif;
